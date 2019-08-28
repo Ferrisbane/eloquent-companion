@@ -1,6 +1,6 @@
 {
   "name": "ferrisbane/eloquent-companion",
-  "description": "",
+  "description": "A quintessential package containing companion helper functions to extend the usefulness of Laravel's Eloquent ORM",
   "keywords": [
     "laravel",
     "cache",

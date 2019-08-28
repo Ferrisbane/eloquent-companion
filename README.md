@@ -1,5 +1,6 @@
 # Eloquent Companion
 
+A quintessential package containing companion helper functions to extend the usefulness of Laravel's Eloquent ORM
 
 - [Installation](#installation)
 - [Usage](#usage)
